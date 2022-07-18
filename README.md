@@ -4,6 +4,20 @@ This repo and the linked repos are part of a presentation by Gavin Pickin at Ado
 
 This repo and the other repos will be updated after the presentation with finalized code, data, links and much more.
 
+
+### Want to Dive Deeper? Check out my upcoming workshop after CF Summit in Las Vegas
+
+#### ColdBox Zero to MegaHero : REST APIs + VueJS Mobile App
+
+Oct 5th and 6th, 2022 - After CF Summit Conference
+
+Aria - In the luxurious Executive Hospitality Suite like 2019
+
+https://www.eventbrite.com/e/ortus-cf-summit-training-workshop-tickets-375306340367
+
+
+
+
 ## Session Description:
 
 Learn how to build a front-end interface for “Developer Feud” using VueJS and ColdFusion APIs and deploy the same code on SPA, Android, and Windows online. Let's decide once and for all if we should use tabs or spaces, and discuss other hotly debated developer topics.
