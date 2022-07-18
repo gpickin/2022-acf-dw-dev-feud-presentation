@@ -14,12 +14,25 @@ https://drive.google.com/file/d/1lYEJZzyeRFkFX12HDx48AFG5K_WKXfoe/view?usp=shari
 
 ## ColdBox Rest API
 
-https://github.com/gpickin/2022-acf-dw-api
+Repo: https://github.com/gpickin/2022-acf-dw-api
 
 ## Quasar VueJS Apps
 
-https://github.com/gpickin/2022-acf-dw-quasar-admin
+### Admin App
 
-https://github.com/gpickin/2022-acf-dw-quasar-game
+Online App: http://admin.acfdw.gavinpickin.com/
 
-https://github.com/gpickin/2022-acf-dw-quasar-vote
+Repo: https://github.com/gpickin/2022-acf-dw-quasar-admin
+
+### Game App
+
+Online App: http://game.acfdw.gavinpickin.com/
+
+Repo: https://github.com/gpickin/2022-acf-dw-quasar-game 
+
+
+### Voting App
+
+Online App: http://vote.acfdw.gavinpickin.com/
+
+Repo: https://github.com/gpickin/2022-acf-dw-quasar-vote
