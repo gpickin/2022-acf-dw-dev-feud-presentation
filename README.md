@@ -2,7 +2,7 @@
 
 This repo and the linked repos are part of a presentation by Gavin Pickin at Adobe ColdFusion Developer Week 2022.
 
-This repo and the other repos will be updates after the presentation with finalized code, data, links and much more.
+This repo and the other repos will be updated after the presentation with finalized code, data, links and much more.
 
 ## Session Description:
 
